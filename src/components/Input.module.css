@@ -1,0 +1,31 @@
+.header{
+    font-size: 2.5rem;
+    padding: 1rem;
+    background-color: rgb(172, 88, 233);
+    color: antiquewhite;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin: auto;
+    
+}
+
+.action{
+    display: flex;
+    column-gap: 1rem;
+}
+
+.action{
+    background-color: transparent;
+    border: none;
+    color: aliceblue;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+}
